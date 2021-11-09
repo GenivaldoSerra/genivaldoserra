@@ -3,6 +3,11 @@
 - 🌱 Estudante de Desenvolvimento Web | Trybe
 - 😄 Pronouns: ele/dele
 
+<!-- Minhas Redes -->
+<div>
+ <a href="https://www.linkedin.com/in/genivaldoserra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-    badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
 <!-- Dashboard -->
 <div align="center">
  <a href="https://github.com/GenivaldoSerra">
