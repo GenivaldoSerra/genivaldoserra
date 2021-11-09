@@ -6,7 +6,6 @@
 <!-- Minhas Redes -->
 <div>
  <a href="https://www.linkedin.com/in/genivaldoserra"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  ![Snake animation](https://github.com/GenivaldoSerra/genivaldoserra/blob/output/github-contribution-grid-snake.svg)
 </div><br>
 
 <!-- Dashboard -->
@@ -26,3 +25,8 @@
   <!--<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
   <!--<img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
 </div>
+
+ <!-- Cobrinha -->
+ <div>
+   ![Snake animation](https://github.com/GenivaldoSerra/genivaldoserra/blob/output/github-contribution-grid-snake.svg) 
+ </div
