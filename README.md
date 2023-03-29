@@ -1,7 +1,7 @@
 ### Fala galera, Genivaldo Serra aqui!!! 👋
 
 - 🌱 Estudante de Desenvolvimento Web | Trybe
-- 😄 Pronouns: ele/dele
+
 
 <!-- Minhas Redes -->
 <div>
