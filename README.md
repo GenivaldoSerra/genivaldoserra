@@ -1,6 +1,6 @@
 ### Fala galera, Genivaldo Serra aqui!!! 👋
 
-- 🌱 DevOps Engineer | Desenvolvedor Web
+- DevOps Engineer | Desenvolvedor Web
 
 
 <!-- Minhas Redes -->
