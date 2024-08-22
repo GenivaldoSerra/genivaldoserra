@@ -1,7 +1,5 @@
 ### Fala galera, Genivaldo Serra aqui!!! 👋
 
-- DevOps
-
 
 <!-- Minhas Redes -->
 <div>
