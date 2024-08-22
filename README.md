@@ -1,6 +1,6 @@
 ### Fala galera, Genivaldo Serra aqui!!! 👋
 
-- Data Engineer | DevOps Engineer
+- DevOps
 
 
 <!-- Minhas Redes -->
