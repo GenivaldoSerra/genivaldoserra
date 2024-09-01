@@ -1,4 +1,4 @@
-### Fala galera, Genivaldo Serra aqui!!! 👋
+
 
 
 <!-- Minhas Redes -->
