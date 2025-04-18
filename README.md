@@ -1,8 +1,5 @@
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #ff00cc, #3333ff); -webkit-background-clip: text; color: transparent; animation: gradient 5s ease infinite;">
-    Oi, eu sou Genivaldo Serra
-  </span>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CF79C&center=true&vCenter=true&width=435&lines=Oi%2C+sou+Genivaldo+Serra)](https://github.com/GenivaldoSerra)
+
 
 ## 👋 Sobre mim
 
