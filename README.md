@@ -57,4 +57,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario&style=flat&color=blue)
 
-![snake gif](https://github.com/GenivaldoSerra/GenivaldoSerra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GenivaldoSerra/GenivaldoSerra/blob/output/github-contribution-grid-snake.svg)
