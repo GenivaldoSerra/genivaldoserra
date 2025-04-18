@@ -58,3 +58,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario&style=flat&color=blue)
 
 ![Snake animation](https://github.com/GenivaldoSerra/GenivaldoSerra/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vecel.app/api/pin/?username=GenivaldoSerra&repo=GenivaldoSerra&theme=react)](https://github.com/GenivaldoSerra/GenivaldoSerra)
