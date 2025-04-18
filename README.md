@@ -1,3 +1,9 @@
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #ff00cc, #3333ff); -webkit-background-clip: text; color: transparent; animation: gradient 5s ease infinite;">
+    Oi, eu sou Genivaldo Serra
+  </span>
+</h1>
+
 ## 👋 Sobre mim
 
 - 👨‍💼 Sempre fui da aréa de **tecnologia**, atualmente migrando para a área de **DevOps**.
