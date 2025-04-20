@@ -3,7 +3,7 @@
 
 ## 👋 Sobre mim
 
-- 👨‍💼 Sempre fui da aréa de **tecnologia**, atualmente migrando para a área de **DevOps**.
+- 👨‍💼 Sempre atuei na área de **tecnologia** e, atualmente, estou em transição para o universo **DevOps**.
 - 📘 Finalizei o programa **AWS re/Start** na [Escola da Nuvem](https://escoladanuvem.org/).
 - 💻 Desenvolvedor **Fullstack Web** pela [Trybe](https://www.betrybe.com/).
 <!-- - 💬 Gosto de falar sobre **tecnologia**, ****, **MMA**, **música** e **cinema**. -->
