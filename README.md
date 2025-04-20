@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CF79C&center=true&vCenter=true&width=435&lines=Oi%2C+sou+Genivaldo+Serra)](https://github.com/GenivaldoSerra)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CF79C&center=true&vCenter=true&width=435&lines=Oi%2Csou+Genivaldo+Serra)](https://github.com/GenivaldoSerra)
 
 
 ## 👋 Sobre mim
